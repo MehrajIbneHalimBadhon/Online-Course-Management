@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Juwel",
+      "lastName": "Rana",
+      "email": "rana25@gmail.com",
+      "mobile": "019383938398",
+      "salary": "$ 23000"
+    },
+    {
+      "id": 3,
+      "firstName": "Arafat",
+      "lastName": "Rimon",
+      "email": "rimon2343@gmail.com",
+      "mobile": "01339429239",
+      "salary": "$ 21000"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "MD Shahid Ullah",
+      "email": "mdbaharkhan870@gmail.com",
+      "password": "123456",
+      "mobile": "01836934445",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "fullname": "BaharKhan",
+      "email": "baharkhan870@gmail.com",
+      "password": "123456",
+      "mobile": "01836934445",
+      "id": 4
+    },
+    {
+      "fullname": "AftabDolon",
+      "email": "aftabdolon47@gmail.com",
+      "password": "123456",
+      "mobile": "01846125306",
+      "id": 5
+    },
+    {
+      "fullname": "Nur Islam",
+      "email": "info.unr@gmail.com",
+      "password": "123456",
+      "mobile": "018675432444",
+      "id": 6
+    },
+    {
+      "fullname": "Aftab",
+      "email": "aftabdolon@gmail.com",
+      "password": "123456",
+      "mobile": "01639170615",
+      "id": 7
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
